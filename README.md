@@ -1,23 +1,10 @@
-<!-- BANNER MINIMALISTA -->
+# Hi there! 👋 I'm Michelle Bornes
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:970747,100:C2185B&height=260&section=header&text=Michelle%20Bornes&fontSize=70&fontColor=FFFFFF&animation=fadeIn&desc=IA%20%7C%20Desenvolvimento%20de%20Software&descSize=18&descAlignY=70"/> 
-</p>
+Sou estudante de Ciência da Computação, com previsão de conclusão em julho de 2027. Atualmente atuo como estagiária de Qualidade de Software (QA) na Vivo, participando de testes e validações de aplicações IPTV.
 
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Ciência+da+Computação"/>
-</p>
-
-
-<!-- STATS 
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MichelleBornes&show_icons=true&bg_color=0D1117&title_color=970747&icon_color=970747&text_color=FFFFFF&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleBornes&layout=compact&bg_color=0D1117&title_color=970747&text_color=FFFFFF&hide_border=true"/>
-</div>
-
----
+Gosto de entender como os sistemas funcionam, aprender novas tecnologias e desenvolver soluções que resolvam problemas reais. Atualmente, estou aprofundando meus conhecimentos em algoritmos, estruturas de dados, ciência de dados e machine learning.
+  
+##
 
 <!-- TECNOLOGIAS ANIMADAS -->
 
