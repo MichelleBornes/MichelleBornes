@@ -10,7 +10,7 @@
 </p>
 
 
-<!-- STATS -->
+<!-- STATS 
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MichelleBornes&show_icons=true&bg_color=0D1117&title_color=970747&icon_color=970747&text_color=FFFFFF&hide_border=true"/>
@@ -38,9 +38,4 @@
   
   <img alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=970747&size=18&center=true&vCenter=true&width=650&lines=+Python+%7C+C+%7C+Java+%7C+CSharp+%7C+HTML+%7C+CSS+%7C+JavaScript"/>
-</p>
-
 
